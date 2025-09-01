@@ -1,4 +1,4 @@
-package main.java.com.service;
+package main.github.com.service;
 
 public class Managers {
     public static TaskManager getDefault() {

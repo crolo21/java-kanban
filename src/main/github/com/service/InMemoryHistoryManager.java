@@ -1,6 +1,6 @@
-package main.java.com.service;
+package main.github.com.service;
 
-import main.java.com.model.Task;
+import main.github.com.model.Task;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -76,10 +76,7 @@ public class InMemoryHistoryManager implements HistoryManager {
             tail = prevNode;
         } else {
             nextNode.prev = prevNode;
-            nodeToRemove.next = null;
         }
-
-        nodeToRemove.data = null;
     }
 
     @Override

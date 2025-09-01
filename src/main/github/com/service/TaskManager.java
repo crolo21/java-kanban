@@ -1,8 +1,8 @@
-package main.java.com.service;
+package main.github.com.service;
 
 import java.util.List;
 
-import main.java.com.model.*;
+import main.github.com.model.*;
 
 public interface TaskManager {
     List<Task> getAllTasks();

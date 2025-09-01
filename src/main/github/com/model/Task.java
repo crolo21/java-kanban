@@ -1,4 +1,4 @@
-package main.java.com.model;
+package main.github.com.model;
 
 public class Task {
     private int id;

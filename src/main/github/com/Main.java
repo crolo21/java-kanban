@@ -1,7 +1,7 @@
-package main.java.com;
+package main.github.com;
 
-import main.java.com.model.*;
-import main.java.com.service.*;
+import main.github.com.model.*;
+import main.github.com.service.*;
 
 import java.util.List;
 

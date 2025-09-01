@@ -1,6 +1,6 @@
-package test.java.com.example;
+package github.com.example;
 
-import main.java.com.service.*;
+import main.github.com.service.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

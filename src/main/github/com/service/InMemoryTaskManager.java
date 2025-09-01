@@ -1,10 +1,10 @@
-package main.java.com.service;
+package main.github.com.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import main.java.com.model.*;
+import main.github.com.model.*;
 
 public class InMemoryTaskManager implements TaskManager {
     private final HashMap<Integer, Task> tasks = new HashMap<>();
