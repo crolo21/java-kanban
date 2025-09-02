@@ -1,10 +1,10 @@
-package main.github.com.service;
+package main.ru.practicum.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import main.github.com.model.*;
+import main.ru.practicum.model.*;
 
 public class InMemoryTaskManager implements TaskManager {
     private final HashMap<Integer, Task> tasks = new HashMap<>();

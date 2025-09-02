@@ -1,4 +1,4 @@
-package main.github.com.model;
+package main.ru.practicum.model;
 
 import java.util.ArrayList;
 import java.util.List;

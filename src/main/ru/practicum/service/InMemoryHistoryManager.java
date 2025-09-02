@@ -1,6 +1,6 @@
-package main.github.com.service;
+package main.ru.practicum.service;
 
-import main.github.com.model.Task;
+import main.ru.practicum.model.Task;
 
 import java.util.ArrayList;
 import java.util.HashMap;

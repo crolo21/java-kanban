@@ -1,6 +1,6 @@
-package github.com.example;
+package ru.practicum.model;
 
-import main.github.com.model.*;
+import main.ru.practicum.model.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

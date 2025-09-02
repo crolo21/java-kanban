@@ -1,4 +1,4 @@
-package main.github.com.model;
+package main.ru.practicum.model;
 
 public class Task {
     private int id;

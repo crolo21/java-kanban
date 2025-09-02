@@ -1,4 +1,4 @@
-package main.github.com.service;
+package main.ru.practicum.service;
 
 public class Managers {
     public static TaskManager getDefault() {

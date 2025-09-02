@@ -1,7 +1,7 @@
-package main.github.com;
+package main.ru.practicum;
 
-import main.github.com.model.*;
-import main.github.com.service.*;
+import main.ru.practicum.model.*;
+import main.ru.practicum.service.*;
 
 import java.util.List;
 

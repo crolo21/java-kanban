@@ -1,8 +1,8 @@
-package main.github.com.service;
+package main.ru.practicum.service;
 
 import java.util.List;
 
-import main.github.com.model.*;
+import main.ru.practicum.model.*;
 
 public interface TaskManager {
     List<Task> getAllTasks();
